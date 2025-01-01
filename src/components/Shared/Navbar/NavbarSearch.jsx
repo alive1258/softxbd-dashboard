@@ -1,6 +1,4 @@
-import React from "react";
 import { IoMdSearch } from "react-icons/io";
-import { IoSearchOutline } from "react-icons/io5";
 
 const NavbarSearch = () => {
   return (
